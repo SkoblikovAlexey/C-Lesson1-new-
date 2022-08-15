@@ -106,12 +106,28 @@ string Replace(string text, char oldValue, char newValue)
     return result;
 }
 
-string newText = Replace(text, ' ', '_');
-Console.WriteLine(newText);
-Console.WriteLine();
-newText = Replace(newText, 'к', 'К');
-Console.WriteLine(newText);
-Console.WriteLine();
-newText = Replace(newText, 'с', 'С');
-Console.WriteLine(newText);
-Console.WriteLine();
+// string newText = Replace(text, ' ', '_');
+// Console.WriteLine(newText);
+// Console.WriteLine();
+// newText = Replace(newText, 'к', 'К');
+// Console.WriteLine(newText);
+// Console.WriteLine();
+// newText = Replace(newText, 'с', 'С');
+// Console.WriteLine(newText);
+// Console.WriteLine();
+
+int[] arr = { 1, 5, 4, 3, 2, 6, 7, 1, 1 };
+
+void PrintArray(int array)
+{
+
+    int count = array.Length;
+
+    for (int i = 0; i < count; i++)
+    {
+        Console.Write($"{array[i]}");
+    }
+    Console.WriteLine();
+}
+
+PrintArray(arr);
