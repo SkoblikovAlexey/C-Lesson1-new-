@@ -131,3 +131,4 @@ void PrintArray(int array)
 }
 
 PrintArray(arr);
+Console.Write();
