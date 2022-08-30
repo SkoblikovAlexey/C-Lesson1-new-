@@ -108,7 +108,7 @@ double Fibonacci(int n)
         return Fibonacci(n - 1) + Fibonacci(n - 2);
 }
 
-for (int i = 0; i < 10; i++)
+for (int i = 1; i < 10; i++)
 {
     Console.WriteLine(Fibonacci(i));
 }
