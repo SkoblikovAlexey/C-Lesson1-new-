@@ -13,3 +13,18 @@ D:\HTML, CSS, JS\GeekBrains\C# lessons\Examples (C#)\Example001_HelloConsole\obj
 D:\HTML, CSS, JS\GeekBrains\C# lessons\Examples (C#)\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
 D:\HTML, CSS, JS\GeekBrains\C# lessons\Examples (C#)\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
 D:\HTML, CSS, JS\GeekBrains\C# lessons\Examples (C#)\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\GeekBrains\C#\Lections\C-Lesson1-new-\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll

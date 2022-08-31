@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HTML, CSS, JS\\GeekBrains\\C# lessons\\Examples (C#)\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "D:\\GeekBrains\\C#\\Lections\\C-Lesson1-new-\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\HTML, CSS, JS\\GeekBrains\\C# lessons\\Examples (C#)\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "D:\\GeekBrains\\C#\\Lections\\C-Lesson1-new-\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HTML, CSS, JS\\GeekBrains\\C# lessons\\Examples (C#)\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "D:\\GeekBrains\\C#\\Lections\\C-Lesson1-new-\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "D:\\HTML, CSS, JS\\GeekBrains\\C# lessons\\Examples (C#)\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-        "packagesPath": "C:\\Users\\Повелитель\\.nuget\\packages\\",
-        "outputPath": "D:\\HTML, CSS, JS\\GeekBrains\\C# lessons\\Examples (C#)\\Example001_HelloConsole\\obj\\",
+        "projectPath": "D:\\GeekBrains\\C#\\Lections\\C-Lesson1-new-\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\happy\\.nuget\\packages\\",
+        "outputPath": "D:\\GeekBrains\\C#\\Lections\\C-Lesson1-new-\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Повелитель\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\happy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
